@@ -289,7 +289,7 @@ body{
 }
 .containerD .elementA .imgA{
     width: 50%;
-    background: url("/img/contD-el-1.webp") no-repeat;
+    background: url("/merkinfra/img/contD-el-1.webp") no-repeat;
     background-size: cover;
     border-radius: 10px;
     height: 400px;
@@ -361,25 +361,25 @@ body{
     color: white;
 }
 #boxX{
-    background: url("/img/contE-bg-1.jpg") no-repeat;
+    background: url("/merkinfra/img/contE-bg-1.jpg") no-repeat;
     background-size: cover;
     width: 50%;
     
 }
 #boxY{
-    background: url("/img/contE-bg-2.jpg") no-repeat;
+    background: url("/merkinfra/img/contE-bg-2.jpg") no-repeat;
     background-size: cover;
     width: 50%;
     
 }
 #boxZ{
-    background: url("/img/contE-bg-3.jpg") no-repeat;
+    background: url("/merkinfra/img/contE-bg-3.jpg") no-repeat;
     background-size: cover;
     width: 50%;
 
 }
 #boxX:hover{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/merkinfra/img/contE-bg-1.jpg") no-repeat;
     background: -moz-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
     background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
     background: -o-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
@@ -387,7 +387,7 @@ body{
     background-size: cover;
 }
 #boxY:hover{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/merkinfra/img/contE-bg-2.jpg") no-repeat;
     background: -moz-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
     background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
     background: -o-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
@@ -395,7 +395,7 @@ body{
     background-size: cover;
 }
 #boxZ:hover{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/merkinfra/img/contE-bg-3.jpg") no-repeat;
     background: -moz-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
     background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
     background: -o-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
@@ -413,7 +413,7 @@ body{
     .backgroundA {
         height: 220px;
         width: 100%;
-        background: linear-gradient(rgba(133, 133, 133, 0.7), rgba(133, 133, 133, 0.7)),url("/vid/Merkinfra-Main.gif") no-repeat;
+        background: linear-gradient(rgba(133, 133, 133, 0.7), rgba(133, 133, 133, 0.7)),url("https://info.apnanotes.xyz/vid/Merkinfra-Main.gif") no-repeat;
         background-position: center;
         background-size: cover;
     }
@@ -489,7 +489,7 @@ body{
         width: 80vw;
     }
     .containerE #boxX{
-        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/merkinfra/img/contE-bg-1.jpg") no-repeat;
         background: -moz-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
         background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
         background: -o-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-1.jpg") no-repeat;
@@ -497,7 +497,7 @@ body{
         background-size: cover;
     }
     #boxY{
-        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/merkinfra/img/contE-bg-2.jpg") no-repeat;
         background: -moz-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
         background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
         background: -o-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-2.jpg") no-repeat;
@@ -506,7 +506,7 @@ body{
         background-size: cover;
     }
     #boxZ{
-        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/merkinfra/img/contE-bg-3.jpg") no-repeat;
         background: -moz-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
         background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
         background: -o-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/img/contE-bg-3.jpg") no-repeat;
