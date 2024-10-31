@@ -26,7 +26,7 @@ body{
 .backgroundA {
     height: 26vw;
     width: 100%;
-    background: linear-gradient(rgba(133, 133, 133, 0.7), rgba(133, 133, 133, 0.7)),url("/vid/Merkinfra-Main.gif") no-repeat;
+    background: linear-gradient(rgba(133, 133, 133, 0.7), rgba(133, 133, 133, 0.7)),url("https://info.apnanotes.xyz/vid/Merkinfra-Main.gif") no-repeat;
     background-position: center;
     background-size: cover;
     /* animation: bgA 30s infinite;
